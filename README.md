@@ -1,6 +1,8 @@
 
 # Microbit More v2 MakeCode Extension
 
+## Hacks for CoderDojo Trento
+
 This is a MakeCode extension for [Microbit More v2](https://microbit-more.github.io/).
 
 ## Use as Extension
